@@ -1,2 +1,3 @@
-# astro
-Astro is a minimal music player. [WIP]
+## astro
+# Astro is a minimal music player. [WIP]
+
